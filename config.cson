@@ -1,0 +1,20 @@
+"*":
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "autoclose-html"
+      "emmet"
+    ]
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "aedc6a1c-7023-de3b-be33-e90de5e9c03b"
+  linter:
+    showErrorPanel: false
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
